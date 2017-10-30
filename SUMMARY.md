@@ -18,7 +18,7 @@
 	* [5.3 Pairing Heaps](src/h5ph.md)
 * [H6: Toep. DEZ](src/h6a.md)
 	* [6.1 Enkelv. SG](src/h6esg.md)
-	* [6.1 Dubbele SG](src/h6dsg.md)
+	* [6.2 Dubbele SG](src/h6dsg.md)
 	* [6.3 Eulercircuits](src/h6eul.md)
 * [H7: Kortste Afs. II](src/h7a.md)
 	* [7.1.1 Bellman-Ford](src/h7bf.md)
