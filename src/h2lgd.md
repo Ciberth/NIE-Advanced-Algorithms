@@ -9,6 +9,7 @@ Een (niet per se uniek) LGD kan bepaalt worden via een **bruteforcemethode** die
 Er is aan alle voorwaarden voldaan om dit probleem aan te pakken via **dynamisch programmeren.**
 
 ![H2.1](/img/h2d1.png)
+
 ![H2.2](/img/h2d2.png)
 
 ```cpp

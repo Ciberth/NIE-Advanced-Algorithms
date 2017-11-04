@@ -25,8 +25,7 @@ De boom is slechts bij benadering evenwichtig!
 
 ## Zoeken
 
-```cpp
-```
+
 
 ## Toevoegen
 
@@ -38,8 +37,6 @@ Toevoegen zonder op de kleur te letten (zoals bij binaire zoekboom). We dalen af
 
 Geen ouderwijzers/stapel nodig.
 
-```cpp
-```
 
 ## Verwijderen
 
