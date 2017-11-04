@@ -25,8 +25,6 @@ De boom is slechts bij benadering evenwichtig!
 
 ## Zoeken
 
-
-
 ## Toevoegen
 
 ### Bottom-up
